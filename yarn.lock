@@ -501,7 +501,17 @@
   dependencies:
     "@tryghost/kg-clean-basic-html" "^1.0.11"
 
-"@tryghost/magic-link@0.6.2", "@tryghost/magic-link@^0.6.2":
+"@tryghost/magic-link@0.6.3":
+  version "0.6.3"
+  resolved "https://registry.yarnpkg.com/@tryghost/magic-link/-/magic-link-0.6.3.tgz#2c6fec74ccea62693aabdc4c89ae470c137d4968"
+  integrity sha512-eEvMjuTo+/jp8K51y/lCdmR12ODVpXOGQ9P6qaXEEiFCjPJL+lTCcwGF17EXG++M/wP/GFjpJwC9dd37eTnHeg==
+  dependencies:
+    bluebird "^3.5.5"
+    ghost-ignition "4.3.0"
+    jsonwebtoken "^8.5.1"
+    lodash "^4.17.15"
+
+"@tryghost/magic-link@^0.6.2":
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/@tryghost/magic-link/-/magic-link-0.6.2.tgz#a429870a41b640dc51ba640747f4da002aa52163"
   integrity sha512-cCCcwlN+hHxKSyxk2D9fIgfXKo2iLOyM5A/U011d/QcqJbCaVv9QYn6HgfWoz40vgV6xEmHrMGLPn4SapLBZZw==
